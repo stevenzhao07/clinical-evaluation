@@ -1,0 +1,8 @@
+clinical-evaluation
+========================
+可插拔模块（lgd-skeleton/1.0）。临床评价与 PMCF 规划器（CER 路径/同品种比对）。
+入口: scripts/cer_planner.py
+元数据: module.json
+总入口: medical-ai-toolkit
+关联: device-regulatory-map, pms-vigilance, ml-validation-toolkit
+许可: CC-BY-4.0 · 贡献者: @stevenzhao07 (MedXpert)
